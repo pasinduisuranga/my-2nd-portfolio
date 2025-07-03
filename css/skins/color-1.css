@@ -1,0 +1,8 @@
+:root{
+    --skin-color: #ec1839;
+    --skin-color-rgb: 236, 24, 57;
+    --skin-color-light: #ff4757;
+    --skin-color-dark: #c23616;
+    --skin-gradient: linear-gradient(135deg, #ec1839 0%, #ff6b6b 100%);
+    --skin-glow: 0 0 30px rgba(236, 24, 57, 0.4);
+}
